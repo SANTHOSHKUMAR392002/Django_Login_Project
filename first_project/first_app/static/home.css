@@ -1,0 +1,33 @@
+*{
+    padding:0%;
+    margin:0%;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    color:red;
+    padding-top:500px;
+    padding-bottom:5px;
+    font-family:monospace;
+    font-size: 50px;
+}
+body{
+    background-image: url(img.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+button{
+    margin-top:20px;
+    margin-left:750px;
+    padding:6px;
+    border-radius:8px;
+    background-color:rgb(7, 7, 7);
+    color:red;
+    font-family: monospace;
+    border:1px solid rgb(15, 10, 10);
+}
+button:hover{
+    background-color: red;
+    color:white;
+}

@@ -1,0 +1,43 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+h1 {
+
+    color: red;
+    text-align: center;
+    padding-top:200px;
+    padding-bottom: 5px;
+    font-family: monospace;
+    font-size: 50px;
+}
+form{
+    padding-left:675px;
+}
+input{
+    padding-top:2px;
+    margin-top:20px;
+    padding:6px;
+    border-radius:5px;
+    border:1px solid white;
+}
+button{
+    margin-top:20px;
+    margin-left:45px;
+    padding:6px;
+    border-radius:8px;
+    background-color:white;
+    color:red;
+    font-family: monospace;
+    border:1px solid white;
+}
+button:hover{
+    background-color: red;
+    color:white;
+}
+input:hover{
+    background-color: red;
+    color:rgb(15, 9, 9);
+}
